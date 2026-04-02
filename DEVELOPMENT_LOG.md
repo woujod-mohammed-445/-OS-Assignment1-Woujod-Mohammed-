@@ -124,10 +124,10 @@ Document your development process as you work on the assignment. Add entries sho
 
 ## Summary
 
-**Total time spent on assignment**: [X hours]
+**Total time spent on assignment**: [144 hours]
 
-**Most challenging part**: 
+**Most challenging part**: Debugging the code and fixing thread-related issues, especially removing duplicate executions and handling process scheduling correctly
 
-**Most interesting learning**: 
+**Most interesting learning**: Understanding how CPU scheduling works and how threads are managed in Java
 
-**What I would do differently next time**: 
+**What I would do differently next time**: Start earlier, plan the implementation steps better, and test the code incrementally to avoid complex debugging later.
