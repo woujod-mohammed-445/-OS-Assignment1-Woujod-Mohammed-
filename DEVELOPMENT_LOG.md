@@ -94,16 +94,18 @@ Document your development process as you work on the assignment. Add entries sho
 
 ---
 
-### Entry 5 - [Date and Time]
-**What I did**: 
+### Entry 5 - [March 31, 2026, 6:00 PM]
+**What I did**: Final debugging and improvements
 
-**Details**: 
+**Details**:1- Fixed duplicate code issues
+2-Solved thread execution errors
+3-Cleaned and finalized code
 
-**Challenges**: 
+**Challenges**: Some bugs were difficult to trace
 
-**Solution**: 
+**Solution**: Used external help and debugging tools
 
-**Time spent**: 
+**Time spent**: 2 hours
 
 ---
 
