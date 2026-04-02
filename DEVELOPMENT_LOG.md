@@ -32,55 +32,65 @@ Document your development process as you work on the assignment. Add entries sho
 
 ## Your Development Log:
 
-### Entry 1 - [Date and Time]
-**What I did**: 
+### Entry 1 - [March 25, 2026, 3:00 PM]
+**What I did**: Forked the repository and set up my student ID
 
-**Details**: 
+**Details**: 1-Forked the project from GitHub
+2-Opened the project in IDE
+3-Updated student ID to (445052707)
+4-Ran the code successfully
 
-**Challenges**: 
+**Challenges**: JDK was not installed
 
-**Solution**: 
+**Solution**: Installed JDK and configured environment
 
-**Time spent**: 
-
----
-
-### Entry 2 - [Date and Time]
-**What I did**: 
-
-**Details**: 
-
-**Challenges**: 
-
-**Solution**: 
-
-**Time spent**: 
+**Time spent**: 50 minutes
 
 ---
 
-### Entry 3 - [Date and Time]
-**What I did**: 
+### Entry 2 - [March 26, 2026, 5:30 PM]
+**What I did**: Reviewed and modified the original code
 
-**Details**: 
+**Details**: 1-Read and understood the scheduler logic
+2-Compared my code with the original
+3-Fixed structure issues and improved formatting
 
-**Challenges**: 
+**Challenges**: Understanding thread execution flow
 
-**Solution**: 
+**Solution**: Re-read code and traced execution step by step
 
-**Time spent**: 
+**Time spent**: 2 hour
 
 ---
 
-### Entry 4 - [Date and Time]
-**What I did**: 
+### Entry 3 - [March 27, 2026, 8:00 PM]
+**What I did**: Installed Visual Studio Code and set up environment
 
-**Details**: 
+**Details**: 1-Installed VS Code on Mac
+2-Set up Java extensions
+3-Imported project files
 
-**Challenges**: 
+**Challenges**: Mac system differences caused setup issues
 
-**Solution**: 
+**Solution**: Adjusted settings and followed setup tutorials
 
-**Time spent**: 
+**Time spent**: 2 hour
+
+---
+
+### Entry 4 - [March 29, 2026, 2:00 PM]
+**What I did**: Implemented required features in the code
+
+**Details**: 1-Added priority feature
+2-Implemented waiting time tracking
+3-Added context switch counter
+4-Tested program after changes
+
+**Challenges**: Code errors and debugging took long time
+
+**Solution**: Fixed errors step by step and tested repeatedly
+
+**Time spent**: 3 days
 
 ---
 
