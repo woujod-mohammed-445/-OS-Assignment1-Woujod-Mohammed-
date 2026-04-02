@@ -20,6 +20,7 @@ The most challenging part of this assignment was debugging the code and fixing t
 ## Question 3: How did you overcome the challenges you faced?
 
 **Your Answer:**
+
 To overcome these challenges, I followed a step-by-step debugging approach. First, I carefully read the error messages to understand the problem. Then, I reviewed my code and compared it with the original version to identify differences. I also tested small parts of the code instead of running everything at once. When I faced difficulties, I searched for explanations and examples to better understand the concepts. I focused on fixing one issue at a time, such as removing duplicate code and correcting thread usage. Additionally, I made sure to re-run the program after each fix to confirm the solution. This approach helped me gradually solve all the issues and improve my understanding.
 ## Question 4: How can you apply multithreading concepts in real-world applications?
 **Your Answer:**
